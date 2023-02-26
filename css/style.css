@@ -1,7 +1,4 @@
-a {
-  color: red;
-}
-h1 {
+.titulo {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: green;
   font-size: medium;
