@@ -1,7 +1,7 @@
 a {
   color: red;
 }
-.titulo {
+h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: green;
   font-size: medium;
@@ -10,11 +10,21 @@ a {
   color: red;
 }
 
-.dias {
+.dias_semana {
   font-weight: bold;
-  color: black;
+  color: blue;
+  font-size: 40px;
 }
-.horarios {
+.horarios_semana {
   font-style: oblique;
-  color: black;
+  color: blue;
+}
+.dias_finde {
+  font-weight: bold;
+  color: violet;
+  font-size: 40px;
+}
+.horarios_finde {
+  font-style: oblique;
+  color: violet;
 }
