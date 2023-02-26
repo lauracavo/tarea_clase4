@@ -1,3 +1,6 @@
+a {
+  color: red;
+}
 .titulo {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: green;
@@ -6,8 +9,12 @@
 .Navegacion {
   color: red;
 }
-p {
-  color: blue;
-}
+
 .dias {
+  font-weight: bold;
+  color: black;
+}
+.horarios {
+  font-style: oblique;
+  color: black;
 }
