@@ -1,9 +1,13 @@
-h1 {
+.titulo {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: green;
   font-size: medium;
 }
-
+.Navegacion {
+  color: red;
+}
 p {
   color: blue;
+}
+.dias {
 }
